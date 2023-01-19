@@ -15,5 +15,4 @@ print (p1.gradyear)
 p1.myfunc()
 
 print('hello')
-print('hello world')
-print('hey')
+
