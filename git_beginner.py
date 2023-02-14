@@ -14,4 +14,10 @@ p1= Person("Pratik", "Khandelwal", 50000, 2012)
 print (p1.gradyear)
 p1.myfunc()
 
+<<<<<<< HEAD
 print('567')
+=======
+print('HELLO')
+print('HELLO_NEW')
+>>>>>>> c369546749424b11e522efdd0f7947085b6b6b16
+print('HELLO_NEW_DONE')
